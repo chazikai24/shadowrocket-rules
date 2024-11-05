@@ -8,4 +8,4 @@
 http-response ^https:\/\/aw\.aoscdn\.com\/base\/vip\/v2\/vips requires-body=1,script-path=https://raw.githubusercontent.com/chazikai24/shadowrocket-rules/refs/heads/main/JS/zt.js
 
 [MITM] 
-hostname = awvp.aoscdn.com
+hostname = aw.aoscdn.com
